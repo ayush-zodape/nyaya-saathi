@@ -32,12 +32,10 @@ Nyaya Saathi helps marginalized communities in India understand their legal righ
 ## Repository Structure
 ```
 nyaya-saathi/
-├── README.md               ← You are here
-├── requirements.md         ← Product requirements (generated via Kiro)
-├── design.md               ← Technical design document (generated via Kiro)
-├── PPT_CONTENT.md          ← Content guide for presentation slides
-├── ARCHITECTURE_DIAGRAM_GUIDE.md ← How to generate AWS architecture diagram
-└── KIRO_PROMPT.md          ← High-quality prompt for Kiro spec generation
+├── README.md               
+├── requirements.md         
+├── design.md               
+
 ```
 
 ## Team
@@ -46,4 +44,5 @@ nyaya-saathi/
 
 ## License
 This project is built for the AI for Bharat Hackathon 2026.
+
 
