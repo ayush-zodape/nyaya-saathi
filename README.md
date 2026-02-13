@@ -1,4 +1,4 @@
-# Nyaya Saathi — Justice Companion
+# Nyaya Saathi 
 
 > AI-Powered Legal Rights & Grievance Drafting Assistant for Marginalized Communities in India
 
@@ -44,5 +44,6 @@ nyaya-saathi/
 
 ## License
 This project is built for the AI for Bharat Hackathon 2026.
+
 
 
