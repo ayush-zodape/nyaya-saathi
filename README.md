@@ -10,8 +10,7 @@ Nyaya Saathi helps marginalized communities in India understand their legal righ
 
 **Solution:** Describe your situation in plain Hindi/English → AI identifies your legal rights with specific Act & Section citations → Get auto-drafted complaint letters, RTI applications, and step-by-step action guides.
 
-## Track
-- **Student Track — Problem Statement 3:** AI for Communities, Access & Public Impact
+
 
 ## Key Features
 - Conversational intake in Hindi/English
@@ -37,6 +36,7 @@ nyaya-saathi/
 ├── design.md               
 
 ```
+
 
 
 
