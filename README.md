@@ -38,12 +38,8 @@ nyaya-saathi/
 
 ```
 
-## Team
-- Ayush Zodape
-- Saurav Rajput
 
-## License
-This project is built for the AI for Bharat Hackathon 2026.
+
 
 
 
